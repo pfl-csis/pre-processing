@@ -1,0 +1,1287 @@
+DEBUG:root:Opening file at path: non_existent_file.md
+DEBUG:root:Opening file at path: non_existent_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> is pretty hard:90
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> is pretty hard:90
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: non_existent_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: non_existent_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md
+DEBUG:root:Current line:
+> Alert 11111: Darktrace: ANOMALOUS CONNECTION::UNUSUAL ADMIN RDP SESSION
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Incident ID: 1111
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> -------------------------------
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> ## Entities
+DEBUG:root:Current Section: 	field_name: Noneield: None
+
+DEBUG:root:Current line:
+> Timestamp: 2023-11-11 11:11:11 UTC+11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Source IP address: 10.111.111.11
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination IP address: 10.11.11.111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Destination port: 1111
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> Event message: 
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> - asdasdasdasd
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> - askdhasil
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Event details: Client connected with this RDP cookie, result=encrypted
+DEBUG:root:Current Section: Entities	field_name: Event messageield: Event message
+
+DEBUG:root:Current line:
+> Hard Entity: This one: 23
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Investigation/actions performed:
+DEBUG:root:Current Section: Entities	field_name: ield: 
+
+DEBUG:root:Current line:
+> _______________________________
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Credential "asdasdasd" was used to create an RDP connection between "10.11.11.111" and "10.11.112.111".
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> This alert was raised because highly privileged credentials were used to connect with RDP between these two devices that rarely interact.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Darktrace did not resolve the IP addresses to any device name to look up and it was not possible to cross-reference the traffic with MDE logs in M365 Defender.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> There is no sign of malicious activity.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel leo ligula. Phasellus eu convallis tellus, vel sollicitudin velit. Mauris elementum convallis sapien vitae finibus. Fusce justo nulla, fringilla sit amet tortor id, blandit varius orci. Vestibulum aliquet turpis felis, id porta nibh scelerisque ut. Proin eleifend tortor orci, et laoreet dui iaculis eu. Pellentesque non mi at odio lacinia cursus ac eget sapien. Nullam dignissim varius est a congue. Aenean auctor viverra ante eget porta. In eu lorem vel enim bibendum efficitur ac eget elit. Donec semper mattis sapien ut sollicitudin. Nulla molestie laoreet viverra.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Donec non massa quis elit rhoncus sollicitudin. Nulla velit dui, euismod eget nisi eu, pharetra maximus nibh. Etiam commodo laoreet nisl. Pellentesque ut interdum libero. Sed rhoncus, risus sit amet accumsan sodales, ligula mauris iaculis dolor, non rutrum augue elit sit amet massa. Morbi ultrices malesuada augue sed iaculis. Nam nec leo lobortis nulla venenatis aliquet.
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ## Conclusions/Recommendations:
+DEBUG:root:Current Section: Investigation/actions performed:	field_name: ield: 
+
+DEBUG:root:Current line:
+> ===============================
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Current line:
+> Please verify if the activity is recognized. No action required unless unexpected.   
+DEBUG:root:Current Section: Conclusions/Recommendations:	field_name: ield: 
+
+DEBUG:root:Opening file at path: non_existent_file.md
+DEBUG:root:Opening file at path: ./test/resources/temp_file.md

@@ -1,0 +1,9 @@
+[{
+"Name": "Test Customer",
+"WorkspaceName": "CSIS-E-Testing-Sentinel",
+"WorkspaceId": "bc987e88-256a-4bac-ab36-46829b2a32b8",
+"ResourceGroupName": "csis-e-testing-sentinel",
+"TenantId": "5cdda4bf-f7a2-4e20-96a0-32f1f2980fe9",
+"SubscriptionId": "3cc5a249-39a5-4bbd-a81f-9b4492978dba"
+}
+]
